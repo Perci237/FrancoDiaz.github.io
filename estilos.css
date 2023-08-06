@@ -1,0 +1,76 @@
+body {
+    padding: 5%;
+    background-color: lightgoldenrodyellow;
+    
+}
+
+
+#cabecera {
+    text-align: center;
+    font-size: 350%;
+    letter-spacing: 10px;
+    padding: 10%, 0%; 
+    background-color: rgb(148, 61, 61);
+    color: aliceblue;
+    
+}
+
+
+
+#fotoFreya {
+    float: right;
+    padding-top: 45px;
+    
+}
+
+
+.dscPersonal {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+.educacion {
+    font-size: 120%;
+    text-align: left; 
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h2 {
+    background-color: rgb(207, 96, 96);
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+
+.expProf {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 120%;
+}
+
+.contacto {
+    text-align: left;
+    font-size: 140%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* no olvidar poner la foto de Freya */
